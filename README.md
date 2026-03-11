@@ -88,8 +88,21 @@ These projects simulate **real vulnerability management processes used in enterp
 
 This repository will continue evolving as I grow in the **GRC and cybersecurity field.**
 
-If you're also learning **GRC, cybersecurity governance, or compliance automation**, feel free to explore, fork, or build alongside me.
+Below are the labs currently completed or under development.
 
+## Labs
+
+| Lab # | Project | What It Does | Skills Demonstrated | Category |
+|------:|---------|--------------|---------------------|----------|
+| 1 | [Lab 01: No Public Buckets Allowed](https://github.com/malcolmtyronebell/no-public-s3) | Prevents insecure public S3 bucket configurations using Rego and Conftest. | Rego, Conftest, GitHub Codespaces, Cloud Security, Policy-as-Code | Policy-as-Code |
+| 2 | Lab 02: Block Open Security Groups | Detects security groups that expose services to the internet. | Cloud Security, Access Control, Policy Testing | Policy-as-Code |
+| 3 | Lab 03: IAM Policy Audits | Flags overly permissive IAM policies and supports least privilege enforcement. | IAM, Least Privilege, Governance | Policy-as-Code |
+| 4 | Lab 04: MFA for Privileged Accounts | Checks whether privileged accounts require MFA for privileged access. | Identity Security, Access Governance | Policy-as-Code |
+| 5 | Lab 05: Control Mapping for Beginners | Demonstrates how technical safeguards map to compliance and governance frameworks. | GRC, Control Mapping, Security Documentation | Control Mapping |
+
+More labs are currently in development as I expand this GRC playground.
+
+If you're also learning **GRC, cybersecurity governance, or compliance automation**, feel free to explore, fork, or build alongside me.
 ---
 
 # 🤝 Connect With Me
