@@ -68,21 +68,6 @@ Others will evolve into **full portfolio projects demonstrating real-world GRC w
 
 ---
 
-# ⚠️ Vulnerability Management Projects
-
-These projects focus on identifying, analyzing, and managing security vulnerabilities within systems and environments.
-
-Topics include:
-
-• Vulnerability scanning  
-• Risk prioritization  
-• Patch management workflows  
-• Security misconfiguration detection  
-• Compliance validation against security standards
-
-These projects simulate **real vulnerability management processes used in enterprise security programs.**
-
----
 
 # 🚧 Work In Progress
 
