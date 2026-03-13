@@ -81,7 +81,7 @@ Below are the labs currently completed or under development.
 |------:|---------|--------------|---------------------|----------|
 | 1 | [Lab 01: No Public Buckets Allowed](https://github.com/malcolmtyronebell/no-public-s3) | Prevents insecure public S3 bucket configurations using Rego and Conftest. | Rego, Conftest, GitHub Codespaces, Cloud Security, Policy-as-Code | Policy-as-Code |
 | 2 | [Lab 02: Block Open Security Groups](https://github.com/malcolmtyronebell/no-open-sg) | Detects security groups that expose services to the internet. | Cloud Security, Access Control, Policy Testing | Policy-as-Code || Detects security groups that expose services to the internet. | Cloud Security, Access Control, Policy Testing | Policy-as-Code |
-| 3 | Lab 03: IAM Policy Audits | Flags overly permissive IAM policies and supports least privilege enforcement. | IAM, Least Privilege, Governance | Policy-as-Code |
+| 3 | [Lab 03: AI Control Mapping Assistant](https://github.com/malcolmtyronebell/ai-control-mapping) | Uses AI to translate cloud security findings into governance control mappings and recommended remediation actions. | Python, AI Integration, Control Mapping, Cloud Security, GRC Automation | AI + GRC |
 | 4 | Lab 04: MFA for Privileged Accounts | Checks whether privileged accounts require MFA for privileged access. | Identity Security, Access Governance | Policy-as-Code |
 | 5 | Lab 05: Control Mapping for Beginners | Demonstrates how technical safeguards map to compliance and governance frameworks. | GRC, Control Mapping, Security Documentation | Control Mapping |
 
