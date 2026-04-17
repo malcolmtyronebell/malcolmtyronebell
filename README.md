@@ -4,7 +4,7 @@ Cybersecurity practitioner focused on **governance, risk, compliance, and real-t
 
 Building a portfolio of hands-on labs and program-foundation projects that bridge **traditional IT, operational technology (OT), and AI/ML-driven environments** — with a long-term focus on resilience, governance, and security architecture for complex cyber-physical systems.
 
-📍 Southern California &nbsp;•&nbsp; 🎓 BS Cyber Defense & Analysis (in progress) &nbsp;•&nbsp; 🛡️ Security+
+📍 Southern California &nbsp;•&nbsp; 🎓 BS Cyber Defense & Analysis  &nbsp;•&nbsp; 🛡️ Security+
 
 ---
 
