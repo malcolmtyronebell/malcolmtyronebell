@@ -62,7 +62,7 @@ From the portfolio backlog:
 
 ## 📫 Contact
 
-- 📧 malcolmtbell@gmail.com
+[![Email](https://img.shields.io/badge/Email-Malcolm%20Bell-red?logo=gmail&logoColor=white)](mailto:malcolmtbell@gmaill.com)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/malcolmtbell/)
 
