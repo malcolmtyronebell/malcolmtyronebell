@@ -63,8 +63,7 @@ From the portfolio backlog:
 ## 📫 Contact
 
 - 📧 malcolmtbell@gmail.com
-- 💼 *LinkedIn: add your LinkedIn URL here*
-
+- 💼 *LinkedIn: [(https://www.linkedin.com/in/malcolmtbell/)]
 *Building hands-on labs. Bridging IT + OT + AI/ML security. Long-term trajectory: top-tier cybersecurity professional specializing in GRC and advanced threat defense.*
 
 
