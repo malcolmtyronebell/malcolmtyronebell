@@ -1,100 +1,72 @@
-# 🔐 Malcolm Bell's GRC Project Portfolio
-### Governance • Risk • Compliance • Automation
+# Hi, I'm Malcolm
 
-A hands-on learning space for turning **governance, risk, and compliance** from theory into real-world practice.
+Cybersecurity practitioner focused on **governance, risk, compliance, and real-time defensive operations**. US Navy veteran (14+ years, high-stakes operational environments). Currently a defense contractor supporting surface-fleet training and qualification. Pursuing a BS in Cyber Defense & Analysis. CompTIA Security+.
 
-Welcome to my **GRC Playground**.
+Building a portfolio of hands-on labs and program-foundation projects that bridge **traditional IT, operational technology (OT), and AI/ML-driven environments** — with a long-term focus on resilience, governance, and security architecture for complex cyber-physical systems.
 
-I built this repository as a sandbox to learn **Governance, Risk, and Compliance (GRC)** the way it should actually be learned: by **building, testing, and experimenting with real tools and real scenarios**.
-
-Like many people entering cybersecurity and GRC, I quickly realized that most learning materials focus heavily on **frameworks, policies, and theory**, but rarely show how those concepts actually work in practice.
-
-This project exists to solve that problem.
-
-Instead of only reading about controls, risk registers, or governance frameworks, I'm using this repository to **build practical labs, test ideas, and document what I learn along the way.**
-
-This is not meant to present myself as a GRC expert.
-
-It is a **learning environment where I practice the skills required to become one.**
+📍 Southern California &nbsp;•&nbsp; 🎓 BS Cyber Defense & Analysis (in progress) &nbsp;•&nbsp; 🛡️ Security+
 
 ---
 
-# 🎯 Why This Exists
+## 🔎 SOC & Detection Engineering
 
-I'm currently transitioning deeper into **cybersecurity and GRC**, and I wanted a place where I could:
+Labs and projects that demonstrate detection, threat hunting, and SIEM / NSM work.
 
-• Practice implementing governance and compliance concepts  
-• Experiment with automation and policy testing  
-• Connect frameworks to real technical controls  
-• Document my learning journey publicly  
+- **[lab-pfsense-snort-ids](https://github.com/malcolmtyronebell/lab-pfsense-snort-ids)** — Perimeter defense + IDS lab: pfSense firewall and Snort IDS validated against Kali / Metasploit adversary emulation. Full reproduction steps + alert evidence.
 
-This repository acts as my **personal GRC lab environment and portfolio.**
+## 🧠 Cyber Threat Intelligence
 
-Everything here is built with the mindset of:
+Adversary analysis, threat modeling, and CTI program design.
 
-> **Learning by doing.**
+- **[project-cti-mustang-panda](https://github.com/malcolmtyronebell/project-cti-mustang-panda)** — CTI program foundation: Priority Intelligence Requirements, Mustang Panda (G0129) adversary profile with MITRE ATT&CK mapping, and STRIDE threat model for a cloud-hosted defense contractor.
 
----
+## ☁️ Cloud Security & Policy-as-Code
 
-# 📚 What I'm Learning
+Controls and guardrails for AWS and cloud environments.
 
-Through these projects and labs, I’m developing practical experience with:
+- **[lab-opa-no-public-s3](https://github.com/malcolmtyronebell/lab-opa-no-public-s3)** — Policy-as-code lab: Open Policy Agent rules that block public AWS S3 buckets at deploy time.
+- **[lab-opa-no-open-sg](https://github.com/malcolmtyronebell/lab-opa-no-open-sg)** — Policy-as-code lab: OPA rules that block wide-open security groups (0.0.0.0/0) before they land.
+- **[lab-ai-control-mapping](https://github.com/malcolmtyronebell/lab-ai-control-mapping)** — AI-assisted mapping of cloud security findings to NIST CSF control families.
 
-• Risk identification and **risk register creation**  
-• Mapping **governance frameworks to real controls**  
-• **Policy-as-Code** concepts and compliance automation  
-• Cloud and infrastructure **compliance validation**  
-• Security tool integration with governance processes  
-• Building **GRC workflows using Python and automation**
+## 🛡️ Governance, Risk & Compliance *(coming soon)*
 
-Each project focuses on translating **compliance requirements into something measurable, testable, and repeatable.**
+From the portfolio backlog:
 
----
+- `project-grc-stylespire-soc2` — SOC 2 Type II readiness assessment for a pre-IPO SaaS company
+- `project-grc-medicare-hipaa` — HIPAA §164.312 operational controls audit for a mid-size health-plan administrator
+- `project-grc-business-resiliency` — Flood-scenario BIA + RTO/RPO plan under NIST SP 800-34
 
-# 🧪 What You'll Find Here
+## ⚡ OT / ICS & Critical Infrastructure *(coming soon)*
 
-Inside this repository you’ll find:
+- `project-ics-cascading-failure` — AI + ICS probabilistic risk assessment across the Purdue Model
+- `project-ics-water-utility-resilience` — NIST 800-82 / ISA-62443 resilience strategy for a municipal water utility
 
-• Hands-on **GRC labs**  
-• **Risk assessment exercises**  
-• **Framework-to-control mappings**  
-• Governance **automation experiments**  
-• Compliance **validation projects**  
-• **AI-assisted GRC workflows**
+## 🤖 ML for Security *(coming soon)*
 
-Some projects will be **simple learning exercises**.
-
-Others will evolve into **full portfolio projects demonstrating real-world GRC workflows.**
+- `project-ml-netflow-anomaly` — Isolation Forest anomaly detection on the CTU-13 botnet dataset (PyShark / scikit-learn)
 
 ---
 
+## 🧰 Tools & Frameworks
 
-# 🚧 Work In Progress
+| Category | Stack |
+|---|---|
+| SIEM / NSM | Splunk (SPL, MLTK), ELK, Suricata, Snort, Zeek, Security Onion |
+| Network / Perimeter | pfSense, Wireshark, tcpdump, Nmap, Metasploit |
+| Cloud | AWS, Open Policy Agent, Terraform |
+| Frameworks | NIST CSF, NIST 800-53 / 800-82 / 800-184, ISO 27001, SOC 2, HIPAA, ISA/IEC 62443 |
+| Adversary Emulation | MITRE ATT&CK, STRIDE, Pyramid of Pain |
+| Programming | Python (Pandas, scikit-learn, PyShark), Bash, PowerShell |
 
-This repository will continue evolving as I grow in the **GRC and cybersecurity field.**
-
-Below are the labs currently completed or under development.
-
-## Labs
-
-| Lab # | Project | What It Does | Skills Demonstrated | Category |
-|------:|---------|--------------|---------------------|----------|
-| 1 | [Lab 01: No Public Buckets Allowed](https://github.com/malcolmtyronebell/no-public-s3) | Prevents insecure public S3 bucket configurations using Rego and Conftest. | Rego, Conftest, GitHub Codespaces, Cloud Security, Policy-as-Code | Policy-as-Code |
-| 2 | [Lab 02: Block Open Security Groups](https://github.com/malcolmtyronebell/no-open-sg) | Detects security groups that expose services to the internet. | Cloud Security, Access Control, Policy Testing | Policy-as-Code || Detects security groups that expose services to the internet. | Cloud Security, Access Control, Policy Testing | Policy-as-Code |
-| 3 | [Lab 03: AI Control Mapping Assistant](https://github.com/malcolmtyronebell/ai-control-mapping) | Uses AI to translate cloud security findings into governance control mappings and recommended remediation actions. | Python, AI Integration, Control Mapping, Cloud Security, GRC Automation | AI + GRC |
-| 4 | Lab 04: MFA for Privileged Accounts | Checks whether privileged accounts require MFA for privileged access. | Identity Security, Access Governance | Policy-as-Code |
-| 5 | Lab 05: Control Mapping for Beginners | Demonstrates how technical safeguards map to compliance and governance frameworks. | GRC, Control Mapping, Security Documentation | Control Mapping |
-
-More labs are currently in development as I expand this GRC playground.
-
-If you're also learning **GRC, cybersecurity governance, or compliance automation**, feel free to explore, fork, or build alongside me.
 ---
 
-# 🤝 Connect With Me
+## 📫 Contact
 
-**LinkedIn**
+- 📧 malcolmtbell@gmail.com
+- 💼 *LinkedIn: add your LinkedIn URL here*
 
-https://www.linkedin.com/in/malcolmtbell/
+*Building hands-on labs. Bridging IT + OT + AI/ML security. Long-term trajectory: top-tier cybersecurity professional specializing in GRC and advanced threat defense.*
+
 
 ---
 
