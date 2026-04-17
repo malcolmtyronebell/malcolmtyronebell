@@ -63,8 +63,6 @@ From the portfolio backlog:
 ## 📫 Contact
 
 - 📧 malcolmtbell@gmail.com
-- 💼 ## Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/malcolmtbell/)
 
 *Building hands-on labs. Bridging IT + OT + AI/ML security. Long-term trajectory: top-tier cybersecurity professional specializing in GRC and advanced threat defense.*
