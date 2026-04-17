@@ -1,6 +1,6 @@
 # Hi, I'm Malcolm
 
-Cybersecurity practitioner focused on **governance, risk, compliance, and real-time defensive operations**. US Navy veteran (14+ years, high-stakes operational environments). Currently a defense contractor supporting surface-fleet training and qualification. Pursuing a BS in Cyber Defense & Analysis. CompTIA Security+.
+Cybersecurity practitioner focused on **governance, risk, compliance, and real-time defensive operations**. US Navy veteran (14+ years, high-stakes operational environments). Currently a defense contractor supporting surface-fleet training and qualification. Earned a BS in Cyber Defense & Analysis. CompTIA Security+.
 
 Building a portfolio of hands-on labs and program-foundation projects that bridge **traditional IT, operational technology (OT), and AI/ML-driven environments** — with a long-term focus on resilience, governance, and security architecture for complex cyber-physical systems.
 
