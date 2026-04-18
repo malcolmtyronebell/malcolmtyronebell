@@ -32,7 +32,7 @@ Controls and guardrails for AWS and cloud environments.
 
 Full-stack projects where the security architecture — not just the feature set — is the point.
 
-- **[mb-ss-dashboard](https://github.com/malcolmtyronebell/mb-ss-dashboard)** — Shared-schedule dashboard aggregating Google + Microsoft calendars. Defense-in-depth implementation: OAuth2 (PKCE-ready), JWT sessions, Supabase Postgres with **Row-Level Security**, Helmet, rate limiting, CORS allowlist, encrypted token storage. React 18 + Vite + Node/Express + Supabase.
+- **[mb-ss-dashboard](https://github.com/malcolmtyronebell/mb-ss-dashboard)** — Shared-schedule dashboard aggregating multpile Google calendars and email accounts. Defense-in-depth implementation: OAuth2 (PKCE-ready), JWT sessions, Supabase Postgres with **Row-Level Security**, Helmet, rate limiting, CORS allowlist, encrypted token storage. React 18 + Vite + Node/Express + Supabase.
 
 ## 🛡️ Governance, Risk & Compliance *(coming soon)*
 
