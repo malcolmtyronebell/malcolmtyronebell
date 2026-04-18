@@ -28,6 +28,12 @@ Controls and guardrails for AWS and cloud environments.
 - **[lab-opa-no-open-sg](https://github.com/malcolmtyronebell/lab-opa-no-open-sg)** — Policy-as-code lab: OPA rules that block wide-open security groups (0.0.0.0/0) before they land.
 - **[lab-ai-control-mapping](https://github.com/malcolmtyronebell/lab-ai-control-mapping)** — AI-assisted mapping of cloud security findings to NIST CSF control families.
 
+## 🔐 Applied Security Engineering
+
+Full-stack projects where the security architecture — not just the feature set — is the point.
+
+- **[mb-ss-dashboard](https://github.com/malcolmtyronebell/mb-ss-dashboard)** — Shared-schedule dashboard aggregating Google + Microsoft calendars. Defense-in-depth implementation: OAuth2 (PKCE-ready), JWT sessions, Supabase Postgres with **Row-Level Security**, Helmet, rate limiting, CORS allowlist, encrypted token storage. React 18 + Vite + Node/Express + Supabase.
+
 ## 🛡️ Governance, Risk & Compliance *(coming soon)*
 
 From the portfolio backlog:
@@ -53,10 +59,11 @@ From the portfolio backlog:
 |---|---|
 | SIEM / NSM | Splunk (SPL, MLTK), ELK, Suricata, Snort, Zeek, Security Onion |
 | Network / Perimeter | pfSense, Wireshark, tcpdump, Nmap, Metasploit |
-| Cloud | AWS, Open Policy Agent, Terraform |
+| Cloud | AWS, Supabase, Open Policy Agent, Terraform |
+| App & AuthN/AuthZ | OAuth2 / PKCE, JWT, Helmet, Postgres Row-Level Security, Microsoft Graph, Google APIs |
 | Frameworks | NIST CSF, NIST 800-53 / 800-82 / 800-184, ISO 27001, SOC 2, HIPAA, ISA/IEC 62443 |
 | Adversary Emulation | MITRE ATT&CK, STRIDE, Pyramid of Pain |
-| Programming | Python (Pandas, scikit-learn, PyShark), Bash, PowerShell |
+| Programming | Python (Pandas, scikit-learn, PyShark), JavaScript/Node (Express, React, Vite), Bash, PowerShell |
 
 ---
 
