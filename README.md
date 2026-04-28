@@ -36,7 +36,7 @@ Full-stack projects where the security architecture — not just the feature set
 
 ## 🛡️ Governance, Risk & Compliance
 
-- [`ai-risk-control-mapping`](./ai-risk-control-mapping) — NIST AI RMF 1.0 ↔ NIST SP 800-53 Rev 5 Risk-to-Control Traceability Matrix with live coverage dashboard and POA&M-ready gap output. 72 AI RMF subcategories, 64 AI-relevant 800-53 controls, 24 AI-specific risks across 52 mapped control linkages.
+- [`ai-risk-control-mapping`](https://github.com/malcolmtyronebell/ai_risk_control_mapping_tool) — NIST AI RMF 1.0 ↔ NIST SP 800-53 Rev 5 Risk-to-Control Traceability Matrix with live coverage dashboard and POA&M-ready gap output. 72 AI RMF subcategories, 64 AI-relevant 800-53 controls, 24 AI-specific risks across 52 mapped control linkages.
 
 
 ## ⚡ OT / ICS & Critical Infrastructure *(coming soon)*
