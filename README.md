@@ -34,13 +34,10 @@ Full-stack projects where the security architecture — not just the feature set
 
 - **[mb-ss-dashboard](https://github.com/malcolmtyronebell/mb-ss-dashboard)** — Shared-schedule dashboard aggregating multiple Google calendars and email accounts. Defense-in-depth implementation: OAuth2 (PKCE-ready), JWT sessions, Supabase Postgres with **Row-Level Security**, Helmet, rate limiting, CORS allowlist, encrypted token storage. React 18 + Vite + Node/Express + Supabase.
 
-## 🛡️ Governance, Risk & Compliance *(coming soon)*
+## 🛡️ Governance, Risk & Compliance
 
-From the portfolio backlog:
+- [`ai-risk-control-mapping`](./ai-risk-control-mapping) — NIST AI RMF 1.0 ↔ NIST SP 800-53 Rev 5 Risk-to-Control Traceability Matrix with live coverage dashboard and POA&M-ready gap output. 72 AI RMF subcategories, 64 AI-relevant 800-53 controls, 24 AI-specific risks across 52 mapped control linkages.
 
-- `project-grc-stylespire-soc2` — SOC 2 Type II readiness assessment for a pre-IPO SaaS company
-- `project-grc-medicare-hipaa` — HIPAA §164.312 operational controls audit for a mid-size health-plan administrator
-- `project-grc-business-resiliency` — Flood-scenario BIA + RTO/RPO plan under NIST SP 800-34
 
 ## ⚡ OT / ICS & Critical Infrastructure *(coming soon)*
 
