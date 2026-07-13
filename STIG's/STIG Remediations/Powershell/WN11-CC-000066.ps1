@@ -51,6 +51,7 @@ if ($null -eq $Value) {
 # fires. It does not cause 4688 to fire. Process Creation auditing must also be
 # enabled or the system passes the STIG check while emitting zero telemetry.
 
+# ---------- PART 2: Audit Policy dependency (WN11-AU-000585) ----------
 $Subcategory = 'Process Creation'
 
 $Before = (auditpol /get /subcategory:"$Subcategory" | Select-String $Subcategory).ToString().Trim()
@@ -59,14 +60,4 @@ $Before = (auditpol /get /subcategory:"$Subcategory" | Select-String $Subcategor
 auditpol /set /subcategory:"$Subcategory" /success:enable | Out-Null
 
 $After = (auditpol /get /subcategory:"$Subcategory" | Select-String $Subcategory).ToString()
-
-if ($After -match 'Success') {
-    "NOT A FINDING (dependency - WN11-AU-000585): $($After.Trim())"
-} else {
-    "FINDING (dependency - WN11-AU-000585): $($After.Trim())"
-}
-
-"`nEvent ID 4688 will now log with full command line data. Verify in Event Viewer >> Security."
-
-
 <#
