@@ -10,8 +10,7 @@ Navy veteran → cybersecurity. Security+ | BS Cyber Defense & Analysis | Active
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/malcolmtyronebell/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 <hr/>
 
 ## 🤳 Connect With Me
