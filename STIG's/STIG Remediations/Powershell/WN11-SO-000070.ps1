@@ -1,4 +1,4 @@
-  <#
+<#
 .SYNOPSIS
     This PowerShell script ensures the machine inactivity limit must be set to 15 minutes, locking the system with the screensaver.
 
