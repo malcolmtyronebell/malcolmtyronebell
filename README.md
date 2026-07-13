@@ -12,7 +12,7 @@ Navy veteran → cybersecurity. Security+ | BS Cyber Defense & Analysis | Active
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/malcolmtyronebell/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 - **[Threat Hunting Scenario (Just Another Day)](https://github.com/malcolmtyronebell/Threat-Hunt-Just-Another-Day)**
-- <hr/>
+<hr/>
 
 ## 🤳 Connect With Me
 
