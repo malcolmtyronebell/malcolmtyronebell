@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/malcolmtbell/">Malcolm Bell's</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Navy veteran → cybersecurity. Security+ | BS Cyber Defense & Analysis | Active Secret clearance. Hands-on projects in vulnerability management, threat detection, and RMF control assessment, built in a segmented home lab and documented like they'd survive an audit. Currently working toward CGRC.
+Navy veteran → cybersecurity. Security+ | BS Cyber Defense & Analysis | Active Secret clearance. Hands-on projects in vulnerability management, threat detection, and RMF control assessment, built in a segmented home lab.
 
 
 ## ⚠️ Vulnerability Management Projects
