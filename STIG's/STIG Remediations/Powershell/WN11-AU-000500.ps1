@@ -23,7 +23,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN11-AU-000500).ps1 
 #>
 
 $Path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
