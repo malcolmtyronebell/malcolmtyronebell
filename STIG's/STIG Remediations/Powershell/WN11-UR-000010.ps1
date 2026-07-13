@@ -1,4 +1,4 @@
- <#
+<#
 .SYNOPSIS
     This PowerShell script ensures the "Access this computer from the network" user right must only be assigned to the Administrators and Remote Desktop Users groups.
 
