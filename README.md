@@ -6,7 +6,7 @@ Navy veteran → cybersecurity. Security+ | BS Cyber Defense & Analysis | Active
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/malcolmtyronebell/Vulnerability-Management-Program-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/malcolmtyronebell/Programmatic-Vulnerability-Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
